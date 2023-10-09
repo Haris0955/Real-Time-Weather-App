@@ -1,0 +1,6 @@
+com/weatherapp/databinding/ActivityMainBinding.java
+ com.weatherapp.databinding.ActivityMainBinding
+com/weatherapp/BuildConfig.java
+ com.weatherapp.BuildConfig
+com/weatherapp/databinding/DialogCustomProgressBinding.java
+ com.weatherapp.databinding.DialogCustomProgressBinding
